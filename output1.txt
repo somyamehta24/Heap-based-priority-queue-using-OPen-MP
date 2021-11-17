@@ -1,0 +1,41 @@
+Entert size of Node
+Enter number of operations
+1)Insert  2)Delete 
+No. of elements you want to insert
+Enter 2 elements
+1)Insert  2)Delete 
+No. of elements you want to insert
+Enter 2 elements
+1)Insert  2)Delete 
+No. of elements you want to insert
+Enter 2 elements
+1)Insert  2)Delete 
+No. of elements you want to insert
+Enter 2 elements
+Running insert from Thread: 0
+Running partial_Insert from Thread: 0
+Running insert from Thread: 3
+Running partial_Insert from Thread: 3
+Completed partial_Insert from Thread: 3
+Running InsertHeapify from Thread: 3
+Completed InsertHeapify from Thread: 3
+Completed insert from Thread: 3
+Running insert from Thread: 1
+Running partial_Insert from Thread: 1
+Completed partial_Insert from Thread: 1
+Running InsertHeapify from Thread: 1
+Completed InsertHeapify from Thread: 1
+Completed insert from Thread: 1
+Running insert from Thread: 2
+Running partial_Insert from Thread: 2
+Completed partial_Insert from Thread: 2
+Running InsertHeapify from Thread: 2
+Completed InsertHeapify from Thread: 2
+Completed insert from Thread: 2
+1 th node  1 2 
+2 th node  5 6 
+3 th node  3 4 
+4 th node  7 8 
+
+printing Buffer
+1000000000 1000000000 
